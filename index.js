@@ -14,4 +14,4 @@ client.on('ready', () => {
 
   
 
-client.login('NzYyMzA5NDM5NDQ0ODc3MzM0.X3nR_Q.BRat37Z8cPatJv8cQNrBfGwuXUQ')
+client.login('TOKEN_HERE')
